@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgba(42, 41, 41, 0.819);
+  padding: 60px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 30px;
+  color: rgba(32, 199, 76, 0.75);
+}
+
+.footer a:hover{
+  color: rgba(32, 199, 76, 1.0);
+}
+
+.footer p{
+  color: white;
+}

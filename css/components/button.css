@@ -1,0 +1,14 @@
+.button {
+  margin-top: 45px;
+  text-decoration: none;
+  background-color: rgba(49, 157, 49, 0.65);
+  color: white;
+  padding: 15px;
+  border-radius: 50px;
+}
+
+.button:hover {
+  background-color: rgba(49, 157, 49, 0.8);
+  box-shadow: 2px 2px 5px rgba(49, 157, 49, 0.8);
+
+}
